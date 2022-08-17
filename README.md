@@ -215,9 +215,9 @@ The roadmap is constructed in accordance with the following four guidelines:
 **[7]** Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." arXiv preprint arXiv:1512.02325 (2015). [[pdf]](http://arxiv.org/pdf/1512.02325) :star::star::star:
 
 **[8]** Dai, Jifeng, et al. "**R-FCN: Object Detection via
-Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/abs/1605.06409) :star::star::star::star:
+Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/pdf/1605.06409.pdf) :star::star::star::star:
 
-**[9]** He, Gkioxari, et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) :star::star::star::star:
+**[9]** He, Gkioxari, et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/pdf/1703.06870.pdf) :star::star::star::star:
 
 **[10]** Bochkovskiy, Alexey, et al. "**YOLOv4: Optimal Speed and Accuracy of Object Detection.**"  arXiv preprint arXiv:2004.10934 (2020). [[pdf]](https://arxiv.org/pdf/2004.10934) :star::star::star::star:
 
